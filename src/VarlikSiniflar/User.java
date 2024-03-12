@@ -17,7 +17,7 @@ public class User {
 
     char[] tckn=new char[11];
     // burası belki de string olmalı
-    enum gender {        Kadin,        Erkek    }
+    enum gender {        Kadin,        Erkek    };
 
 
 
