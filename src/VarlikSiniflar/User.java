@@ -13,7 +13,8 @@ git git hub öğrenilmeli
 
 */
 public class User {
-    String username,password,name,surname;
+    String username,password,name,surname;  ;
+
     char[] tckn=new char[11];
     // burası belki de string olmalı
     enum gender {        Kadin,        Erkek    }
