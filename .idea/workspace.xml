@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="189f29df-705d-4f90-bcfb-3c67af93d8bd" name="Changes" comment="commint directoty..&#10;; koyum">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VarlikSiniflar/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VarlikSiniflar/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710391231926</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commint directoty..&#10;; koyum">
+      <created>1710392340016</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710392340016</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
