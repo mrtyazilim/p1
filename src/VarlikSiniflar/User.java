@@ -19,7 +19,7 @@ public class User {
     // burası belki de string olmalı
     enum gender {        Kadin,        Erkek    };
 ;;
-
+//...
 
 
 }
