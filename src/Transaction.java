@@ -11,16 +11,17 @@ public class Transaction {
         Avans çekildi,
 
     }
-
      */
 
-    /**
+
+    /*
+     description|transactionDate|amount
      avans çekildi|01.03.2024 14:23|-1750.50
      |05.03.2024|750
      malzeme alındı|06.03.2024|-700.25
-
 */
-    String[] description =
+
+    String[] description ={"avans çekildi","malzeme alındı"};
 
 
 }
