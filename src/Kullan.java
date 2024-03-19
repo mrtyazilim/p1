@@ -7,6 +7,6 @@ class Kullan {
 //        System.out.println(today);
         //LocalTime localTime=new LocalTime();
 
-        today.;
+        //today.;
     }
 }
