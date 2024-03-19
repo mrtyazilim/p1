@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="189f29df-705d-4f90-bcfb-3c67af93d8bd" name="Changes" comment="githubcomda şube seçili">
-      <change afterPath="$PROJECT_DIR$/src/Kullan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mezuniyet1P1 (kopya).iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mezuniyet1P1 (kopya).iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kullan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kullan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
