@@ -29,3 +29,4 @@ public class User {
 
 //30
 //31
+//32  9,22 de sadece push yapalım
